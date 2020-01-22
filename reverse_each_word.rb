@@ -16,7 +16,7 @@ def reverse_each_word(str = "Hello there, and how are you?")
     result_array << "#{arryay1[i].reverse}"
     i += 1
   end
-  
+  result_array.join
   
 end
 
